@@ -21,5 +21,5 @@
 <br>
 
 <p align="center">
-  <sub>Banner: frames from <i>ヤニねこ</i> (Yani Neko)</sub>
+  <img src="https://raw.githubusercontent.com/StanAIML/StanAIML/main/assets/footer.svg" width="760" alt="Turning coffee into APIs — EET / EEST">
 </p>
