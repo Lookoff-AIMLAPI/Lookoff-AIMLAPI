@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/StanAIML/StanAIML/main/assets/banner.webp" width="760" alt="">
 </p>
 
-<h1 align="center">Stan</h1>
-
 <p align="center">
   <sub>Backend · APIs · Infrastructure &nbsp;—&nbsp; <a href="https://aimlapi.com">AIMLAPI</a></sub>
 </p>
