@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StanAIML/StanAIML/main/assets/banner.webp" width="760" alt="">
+  <img src="https://raw.githubusercontent.com/StanAIML/StanAIML/main/assets/banner-full.webp" width="760" alt="">
 </p>
 
 <p align="center">
