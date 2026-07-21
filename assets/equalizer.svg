@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="64" viewBox="0 0 760 64" role="img" aria-label="Equalizer">
   <defs>
     <linearGradient id="eq" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#5EEAD4"/>
-      <stop offset="45%" stop-color="#34D399"/>
-      <stop offset="100%" stop-color="#C7D22B"/>
+      <stop offset="0%" stop-color="#79A49A"/>
+      <stop offset="45%" stop-color="#6F9565"/>
+      <stop offset="100%" stop-color="#C8A95F"/>
     </linearGradient>
     <style>
       .b{fill:url(#eq);transform-box:fill-box;transform-origin:bottom;
