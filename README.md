@@ -7,13 +7,7 @@
 </p>
 
 <p align="center">
-  <sub>Fullstack · APIs · Infrastructure &nbsp;—&nbsp; <a href="https://aimlapi.com">AIMLAPI</a></sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StanAIML/StanAIML/main/assets/stack.svg" width="760" alt="Stack: React, Vite, TypeScript, Node.js, Python, Go, PostgreSQL, Metabase, Mixpanel, Docker, Datadog, Grafana">
+  <img src="https://raw.githubusercontent.com/StanAIML/StanAIML/main/assets/profile.svg" width="760" alt="Fullstack, APIs and infrastructure at AIMLAPI. Stack: React, Vite, TypeScript, Node.js, Python, Go, PostgreSQL, Metabase, Mixpanel, Docker, Datadog and Grafana. Open-source contributions to OpenClaude and Zero.">
 </p>
 
 <br>
