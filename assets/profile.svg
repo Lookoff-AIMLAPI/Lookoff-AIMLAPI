@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390" role="img" aria-label="Fullstack, APIs and infrastructure at AIMLAPI. Technology stack and open-source contributions.">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop class="a0" offset="0%" stop-color="#5EEAD4"/>
+      <stop class="a1" offset="50%" stop-color="#34D399"/>
+      <stop class="a2" offset="100%" stop-color="#C7D22B"/>
+    </linearGradient>
+    <style>
+      .a0{animation:c0 4.2s ease-in-out infinite}
+      .a1{animation:c1 4.2s ease-in-out infinite}
+      .a2{animation:c2 4.2s ease-in-out infinite}
+      @keyframes c0{0%,100%{stop-color:#5EEAD4}50%{stop-color:#C7D22B}}
+      @keyframes c1{0%,100%{stop-color:#34D399}50%{stop-color:#5EEAD4}}
+      @keyframes c2{0%,100%{stop-color:#C7D22B}50%{stop-color:#34D399}}
+      @media (prefers-reduced-motion:reduce){.a0,.a1,.a2{animation:none}}
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="759" height="389" rx="10" fill="#0D1117" stroke="#21262D"/>
+  <rect x="0" y="8" width="3" height="374" rx="1.5" fill="url(#accent)"/>
+
+  <g text-anchor="middle">
+    <text x="380" y="46" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#E6EDF3">Fullstack · APIs · Infrastructure</text>
+    <text x="380" y="73" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.8" fill="#34D399">AIMLAPI</text>
+  </g>
+
+  <path d="M34 96.5H726" stroke="#21262D"/>
+
+  <text x="34" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.6" fill="#6E7681">STACK</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1.2" fill="#6E7681">
+    <text x="34" y="158">FRONTEND</text>
+    <text x="34" y="188">BACKEND</text>
+    <text x="34" y="218">DATA</text>
+    <text x="34" y="248">OPS</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#E6EDF3">
+    <text x="176" y="159">React<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">Vite</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">TypeScript</tspan></text>
+    <text x="176" y="189">TypeScript<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">Node.js</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">Python</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">Go</tspan></text>
+    <text x="176" y="219">PostgreSQL<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">Metabase</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">Mixpanel</tspan></text>
+    <text x="176" y="249">Docker<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">Datadog</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#E6EDF3" dx="12">Grafana</tspan></text>
+  </g>
+
+  <path d="M34 274.5H726" stroke="#21262D"/>
+
+  <text x="34" y="303" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.6" fill="#6E7681">OPEN SOURCE</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1.2" fill="#6E7681">
+    <text x="34" y="338">OPENCLAUDE</text>
+    <text x="34" y="368">ZERO</text>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#E6EDF3">
+    <text x="176" y="339">AIMLAPI provider integration</text>
+    <text x="176" y="369">AIMLAPI provider · guided onboarding</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.1" fill="#34D399" text-anchor="end">
+    <text x="726" y="338">MERGED PRs</text>
+    <text x="726" y="368">MERGED PR</text>
+  </g>
+</svg>
