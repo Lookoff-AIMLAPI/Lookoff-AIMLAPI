@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lookoff-AIMLAPI/Lookoff-AIMLAPI/main/assets/profile.svg" width="760" alt="Fullstack, APIs and infrastructure at AIMLAPI. Stack: React, Vite, TypeScript, Node.js, Python, Go, PostgreSQL, Metabase, Mixpanel, Docker, Datadog and Grafana. Open-source contributions to OpenClaude and Zero."><br>
+  <img src="https://raw.githubusercontent.com/Lookoff-AIMLAPI/Lookoff-AIMLAPI/main/assets/profile.svg?v=local-ai-20260827" width="760" alt="Fullstack, APIs and infrastructure at AIMLAPI. Stack: React, Vite, TypeScript, Node.js, Python, Go, PostgreSQL, Metabase, Mixpanel, Docker, Datadog and Grafana. Local AI work and open-source contributions to Turbo Fieldfare, Open Design, OpenClaude, Zero and Atomic Agent."><br>
   <a href="https://aimlapi.com"><img src="https://raw.githubusercontent.com/Lookoff-AIMLAPI/Lookoff-AIMLAPI/main/assets/footer.svg" width="760" alt="Turning coffee into APIs — EET / EEST · Work: aimlapi.com · Contact: stan@aimlapi.com"></a>
 </p>
