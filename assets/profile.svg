@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="594" viewBox="0 0 760 594" role="img" aria-label="Fullstack, APIs and infrastructure at AIMLAPI. Technology stack, local AI work and open-source contributions across 60+ agent, IDE and framework integrations.">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="724" viewBox="0 0 760 724" role="img" aria-label="Fullstack, APIs and infrastructure at AIMLAPI. Technology stack, local AI work and open-source contributions, including AutoGPT, Dify, the AI/ML API MCP server and agent skills, across 60+ agent, IDE and framework integrations.">
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
       <stop class="a0" offset="0%" stop-color="#79A49A"/>
@@ -16,12 +16,12 @@
     </style>
   </defs>
 
-  <rect x="0.5" y="0.5" width="759" height="593" rx="10" fill="#0D1117" stroke="#21262D"/>
-  <rect x="0" y="8" width="3" height="578" rx="1.5" fill="url(#accent)"/>
+  <rect x="0.5" y="0.5" width="759" height="723" rx="10" fill="#0D1117" stroke="#21262D"/>
+  <rect x="0" y="8" width="3" height="708" rx="1.5" fill="url(#accent)"/>
 
   <g text-anchor="middle">
     <text x="380" y="46" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#EEEDDA">Fullstack · APIs · Infrastructure</text>
-    <text x="380" y="73" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.8" fill="#6F9565">AIMLAPI</text>
+    <text x="380" y="73" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.8" fill="#6F9565">AIMLAPI · 6,500+ CONTRIBUTIONS IN THE LAST YEAR</text>
   </g>
 
   <path d="M34 96.5H726" stroke="#21262D"/>
@@ -38,8 +38,8 @@
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#EEEDDA">
     <text x="176" y="159">React<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Vite</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">JavaScript</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">TypeScript</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Swift</tspan></text>
     <text x="176" y="189">TypeScript<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Node.js</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Python</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Go</tspan></text>
-    <text x="176" y="219">PostgreSQL<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Metabase</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Mixpanel</tspan></text>
-    <text x="176" y="249">Docker<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Datadog</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Grafana</tspan></text>
+    <text x="176" y="219">PostgreSQL<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">ClickHouse</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Metabase</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Mixpanel</tspan></text>
+    <text x="176" y="249">Docker<tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">SigNoz</tspan><tspan fill="#30363D" dx="12">/</tspan><tspan fill="#EEEDDA" dx="12">Grafana</tspan></text>
   </g>
 
   <path d="M34 274.5H726" stroke="#21262D"/>
@@ -47,41 +47,56 @@
   <text x="34" y="303" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.6" fill="#6E7681">OPEN SOURCE &amp; LOCAL AI</text>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="1.2" fill="#6E7681">
-    <text x="34" y="337">TURBO FIELDFARE</text>
-    <text x="34" y="363">OPEN DESIGN</text>
-    <text x="34" y="389">GOOSE</text>
-    <text x="34" y="415">CHERRY STUDIO</text>
-    <text x="34" y="441">ZED</text>
-    <text x="34" y="467">MODELS.DEV</text>
-    <text x="34" y="493">OPENCLAUDE</text>
-    <text x="34" y="519">ZERO</text>
-    <text x="34" y="545">ATOMIC AGENT</text>
-    <text x="34" y="571">ECOSYSTEM</text>
+    <text x="34" y="337">AUTOGPT</text>
+    <text x="34" y="363">DIFY</text>
+    <text x="34" y="389">AI/ML API MCP</text>
+    <text x="34" y="415">AGENT SKILLS</text>
+    <text x="34" y="441">MCP ROLLOUT</text>
+    <text x="34" y="467">TURBO FIELDFARE</text>
+    <text x="34" y="493">OPEN DESIGN</text>
+    <text x="34" y="519">GOOSE</text>
+    <text x="34" y="545">CHERRY STUDIO</text>
+    <text x="34" y="571">ZED</text>
+    <text x="34" y="597">MODELS.DEV</text>
+    <text x="34" y="623">OPENCLAUDE</text>
+    <text x="34" y="649">ZERO</text>
+    <text x="34" y="675">ATOMIC AGENT</text>
+    <text x="34" y="701">ECOSYSTEM</text>
   </g>
 
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#EEEDDA">
-    <text x="176" y="338">Local Gemma on Apple Silicon · variants &amp; repacker</text>
-    <text x="176" y="364">AIMLAPI BYOK · settings to inference runtime</text>
-    <text x="176" y="390">Declarative AIMLAPI provider · PKCE sign-in</text>
-    <text x="176" y="416">First-class AIMLAPI provider · catalog refresh</text>
-    <text x="176" y="442">AIMLAPI language-model provider</text>
-    <text x="176" y="468">AIMLAPI catalog sync · base_model refs</text>
-    <text x="176" y="494">AIMLAPI provider · passwordless onboarding &amp; top-up</text>
-    <text x="176" y="520">AIMLAPI provider · guided onboarding</text>
-    <text x="176" y="546">Attribution headers &amp; catalog reliability</text>
-    <text x="176" y="572">60+ agent, IDE and framework integrations</text>
+    <text x="176" y="338">AI/ML API in the platform MCP catalog</text>
+    <text x="176" y="364">Media tool plugin for the Dify marketplace</text>
+    <text x="176" y="390">Remote server · 10,000+ models &amp; tools</text>
+    <text x="176" y="416">Claude Code · Cursor · Codex · Gemini CLI</text>
+    <text x="176" y="442">LobeHub · DeepCode · LoopForge · OpenHands · Cline</text>
+    <text x="176" y="468">Local Gemma on Apple Silicon · variants &amp; repacker</text>
+    <text x="176" y="494">AIMLAPI BYOK · settings to inference runtime</text>
+    <text x="176" y="520">Declarative AIMLAPI provider · PKCE sign-in</text>
+    <text x="176" y="546">First-class AIMLAPI provider · catalog refresh</text>
+    <text x="176" y="572">AIMLAPI language-model provider</text>
+    <text x="176" y="598">AIMLAPI catalog sync · base_model refs</text>
+    <text x="176" y="624">AIMLAPI provider · passwordless onboarding &amp; top-up</text>
+    <text x="176" y="650">AIMLAPI provider · guided onboarding</text>
+    <text x="176" y="676">Attribution headers &amp; catalog reliability</text>
+    <text x="176" y="702">60+ agent, IDE and framework integrations</text>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" letter-spacing="1.1" fill="#6F9565" text-anchor="end">
-    <text x="726" y="337">LOCAL AI</text>
-    <text x="726" y="363">12 MERGED PRs</text>
-    <text x="726" y="389">4 MERGED PRs</text>
-    <text x="726" y="415">6 MERGED PRs</text>
-    <text x="726" y="441">3 MERGED PRs</text>
-    <text x="726" y="467">2 MERGED PRs</text>
-    <text x="726" y="493">4 MERGED PRs</text>
-    <text x="726" y="519">GUIDED ONBOARDING</text>
-    <text x="726" y="545">UPSTREAM MERGED</text>
-    <text x="726" y="571">98 MERGED PRs</text>
+    <text x="726" y="337">188K★ · MERGED</text>
+    <text x="726" y="363">MERGED</text>
+    <text x="726" y="389">v1.0 SHIPPED</text>
+    <text x="726" y="415">SHIPPED</text>
+    <text x="726" y="441">IN REVIEW</text>
+    <text x="726" y="467">LOCAL AI</text>
+    <text x="726" y="493">12 MERGED PRs</text>
+    <text x="726" y="519">4 MERGED PRs</text>
+    <text x="726" y="545">6 MERGED PRs</text>
+    <text x="726" y="571">3 MERGED PRs</text>
+    <text x="726" y="597">2 MERGED PRs</text>
+    <text x="726" y="623">4 MERGED PRs</text>
+    <text x="726" y="649">GUIDED ONBOARDING</text>
+    <text x="726" y="675">UPSTREAM MERGED</text>
+    <text x="726" y="701">98 MERGED PRs</text>
   </g>
 </svg>
